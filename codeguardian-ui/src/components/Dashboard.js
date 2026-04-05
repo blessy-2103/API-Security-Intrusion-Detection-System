@@ -6,7 +6,7 @@ import { jwtDecode } from 'jwt-decode';
 // Internal component for the Guide tab
 const IntegrationGuide = () => (
     <div style={{ color: '#475569' }}>
-        <h3 style={{ color: '#0f172a', marginBottom: '16px' }}>🚀 Quick Start Guide</h3>
+        <h3 style={{ color: '#0f172a', marginBottom: '16px' }}> Quick Start Guide</h3>
         <p style={{ fontSize: '14px', marginBottom: '10px' }}>To secure your API, include your generated key in the header of every request:</p>
         <pre style={{ 
             background: '#0f172a', 
