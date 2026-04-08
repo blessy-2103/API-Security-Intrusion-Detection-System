@@ -90,3 +90,17 @@ Bash
 cd apiguardian-ui
 npm install
 npm start
+<img width="1920" height="1080" alt="Screenshot (966)" src="https://github.com/user-attachments/assets/75c686df-ae21-4bcd-aafe-c82a66205b8d" />
+<img width="1920" height="1080" alt="Screenshot (967)" src="https://github.com/user-attachments/assets/fab21771-edb8-485f-8705-b8a3077dcc5d" />
+<img width="1920" height="1080" alt="Screenshot (968)" src="https://github.com/user-attachments/assets/d339d26d-82db-401b-8f02-632a66b05905" />
+<img width="1920" height="1080" alt="Screenshot (973)" src="https://github.com/user-attachments/assets/e809f1c4-05fc-48cf-891b-9544d6b099dd" />
+<img width="1920" height="1080" alt="Screenshot (969)" src="https://github.com/user-attachments/assets/52adbc88-9b53-418a-8433-875925cac26a" />
+<img width="1920" height="1080" alt="Screenshot (970)" src="https://github.com/user-attachments/assets/f383b053-3bd7-49c5-b09b-bf35f2b7ea23" />
+<img width="1920" height="1080" alt="Screenshot (971)" src="https://github.com/user-attachments/assets/ce9241b2-f656-4248-bb91-4c3072032474" />
+<img width="1920" height="1080" alt="Screenshot (972)" src="https://github.com/user-attachments/assets/ab2f3827-7130-40d0-adb7-c22fbe1f61bb" />
+
+
+
+
+
+
