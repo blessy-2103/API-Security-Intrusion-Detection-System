@@ -68,18 +68,18 @@
 - **Redis Server** (Running on port 6379)
 - MySQL Server
 
-### 1. Backend Configuration
+## 1. Backend Configuration
 Update `src/main/resources/application.properties`:
-# Database
+### Database
 spring.datasource.url=jdbc:mysql://localhost:3306/apiguardian
 spring.datasource.username=YOUR_USER
 spring.datasource.password=YOUR_PASSWORD
 
-# Redis Configuration
+### Redis Configuration
 spring.data.redis.host=localhost
 spring.data.redis.port=6379
 
-# Security
+### Security
 spring.jpa.hibernate.ddl-auto=update
 Run the application:
 
