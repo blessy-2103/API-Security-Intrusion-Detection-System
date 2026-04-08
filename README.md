@@ -70,7 +70,6 @@
 
 ### 1. Backend Configuration
 Update `src/main/resources/application.properties`:
-```properties
 # Database
 spring.datasource.url=jdbc:mysql://localhost:3306/apiguardian
 spring.datasource.username=YOUR_USER
@@ -82,3 +81,12 @@ spring.data.redis.port=6379
 
 # Security
 spring.jpa.hibernate.ddl-auto=update
+Run the application:
+
+Bash
+mvn spring-boot:run
+### 2. Frontend Configuration
+Bash
+cd apiguardian-ui
+npm install
+npm start
